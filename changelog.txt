@@ -2,7 +2,7 @@
 #Change in session 2
 
 ## Bonuses: Crimea gets -2% diptech cost, 2% global trade power, 2% dev cost, 5% manpower recovery, -0.5% prestige decay
-
+## Fixed it so that you can ally people with up to -199 opinion
 
 
 #Changes from CountWeden
@@ -23,7 +23,7 @@ ADM Tech 27 gives 50 GC instead of 250
 ADM Tech 31 gives 100 GC instead of 500
 
 #All changelogs:
-This lists all changes made to the game. Changes in bold are new and weren't in CountWeden. With 1.35.5, the checksum should be '82bb'
+This lists all changes made to the game.
 
 ## Gov reforms
 Centralize bureaucracy reform (tier 3 monarchy) no longer gives discount on "centralize state"
@@ -35,6 +35,7 @@ Wooden wall gives +0.25 rather +1
 Players gets -45% governing capacity. In the age of absolutism, this will shift to -65% GC and +20% core creation.
 "Centralize state" now reduce state governing cost by 10% rather 20% The tooltip in game is bugged, don't pay attention to it.
 Each point of negative stability reduce governing capacity by 10% and increase coring cost by 10%.
+You can ally people when that have over -199 opinion from you.
 
 ## Tech
 ADM Tech 8 gives 20 GC instead of 100
