@@ -1,5 +1,11 @@
+#Change for session 3
 
-#Change in session 2
+## Bonuses
+Crimea gets -0.5% prestige decay
+Lorraine gets 5% manpower recovery and 2% dev cost
+Venice get -2% diptech cost and 2% global trade power
+
+#Change for session 2
 
 ## Bonuses: Crimea gets -2% diptech cost, 2% global trade power, 2% dev cost, 5% manpower recovery, -0.5% prestige decay
 ## Fixed it so that you can ally people with up to -199 opinion
@@ -47,4 +53,6 @@ ADM Tech 27 gives 50 GC instead of 250
 ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
-Crimea gets -2 diptech cost, 2% global trade power, 2% dev cost, 5% manpower recovery, -0.5% prestige decay
+Crimea gets -2 diptech cost, 2% global trade power, 2% dev cost, 5% manpower recovery, -1% prestige decay
+Lorraine gets 5% manpower recovery and 2% dev cost
+Venice get -2% diptech cost and 2% global trade power
