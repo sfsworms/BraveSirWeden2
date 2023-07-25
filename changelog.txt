@@ -1,3 +1,11 @@
+#Change for session 4
+## Score Bonuses
+-Crimea gets an extra -0.5% prestige decay (overall score), 2% dev cost (ADM rating), 5% manpower recovery (MIL)
+-Venice gets an extra -2% dip tech cost and 2% global trade power (DIP rating)
+
+## VC Bonuses
+-Crimea get 5% morale of armies from control of the Tver VC (Taken from Muscovy).
+
 #Change for session 3
 
 ## Bonuses
@@ -11,7 +19,7 @@ Venice get -2% diptech cost and 2% global trade power
 ## Fixed it so that you can ally people with up to -199 opinion
 
 
-#Changes from CountWeden
+#Changes from CountWeden for session 1
 
 ## Naval doctrine
 Wooden wall gives +0.25 rather +1
@@ -53,6 +61,9 @@ ADM Tech 27 gives 50 GC instead of 250
 ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
-Crimea gets -2 diptech cost, 2% global trade power, 2% dev cost, 5% manpower recovery, -1% prestige decay
+Crimea gets -2 diptech cost, 2% global trade power, 4% dev cost reduction, 10% manpower recovery, -1.5% prestige decay
 Lorraine gets 5% manpower recovery and 2% dev cost
-Venice get -2% diptech cost and 2% global trade power
+Venice get -4% diptech cost and 4% global trade power
+
+## VC Bonuses 
+-Crimea get 5% morale of armies from control of the Tver VC (Taken from Muscovy).
