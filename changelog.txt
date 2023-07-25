@@ -1,3 +1,5 @@
+Current checksum: 480c
+
 #Change for session 4
 ## Score Bonuses
 -Crimea gets an extra -0.5% prestige decay (overall score), 2% dev cost (ADM rating), 5% manpower recovery (MIL)
