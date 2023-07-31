@@ -1,5 +1,14 @@
 Current checksum: 480c
 
+# Change for session 5
+## Score bonuses
+-Crimea gets an extra -0.5% prestige decay (overall score), 2% dev cost (ADM rating), 5% manpower recovery (MIL)
+-Netherlands gets an extra -2% dip tech cost and 2% global trade power (DIP rating)
+-Lotharingia is formed and inherits Lorraine's bonuses
+
+## VC Bonuses
+-Teutons get a VC and 5% morale of armies from control of Mazovia (from Poland)
+
 #Change for session 4
 ## Score Bonuses
 -Crimea gets an extra -0.5% prestige decay (overall score), 2% dev cost (ADM rating), 5% manpower recovery (MIL)
@@ -63,9 +72,11 @@ ADM Tech 27 gives 50 GC instead of 250
 ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
-Crimea gets -2 diptech cost, 2% global trade power, 4% dev cost reduction, 10% manpower recovery, -1.5% prestige decay
-Lorraine gets 5% manpower recovery and 2% dev cost
+Crimea gets -2 diptech cost, 2% global trade power, 6% dev cost reduction, 15% manpower recovery, -2% prestige decay
+Lotharingia gets 5% manpower recovery and 2% dev cost
 Venice get -4% diptech cost and 4% global trade power
+Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
--Crimea get 5% morale of armies from control of the Tver VC (Taken from Muscovy).
+-Crimea get 5% morale of armies from control of the Tver VC (Taken from Muscovy)
+-Teutons get a VC and 5% morale of armies from control of Mazovia (from Poland)
