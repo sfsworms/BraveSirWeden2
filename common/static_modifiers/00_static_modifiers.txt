@@ -5,7 +5,7 @@
 # Missing static modifiers expected by code will print to the errorlog
 
 ##########################################################################
-# Handicap Modifiers for human player
+# Handicap Modifiers for AI
 ##########################################################################
 
 difficulty_very_easy_player = {
