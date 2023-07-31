@@ -1,10 +1,11 @@
-Current checksum: 480c
+Current checksum: e829
 
 # Change for session 5
 ## Score bonuses
 -Crimea gets an extra -0.5% prestige decay (overall score), 2% dev cost (ADM rating), 5% manpower recovery (MIL)
 -Netherlands gets an extra -2% dip tech cost and 2% global trade power (DIP rating)
 -Lotharingia is formed and inherits Lorraine's bonuses
+-Added a triggered modifier to reduce governing capacity by 20% in the age of absolutism and revolution
 
 ## VC Bonuses
 -Teutons get a VC and 5% morale of armies from control of Mazovia (from Poland)
@@ -61,6 +62,7 @@ Players gets -45% governing capacity. In the age of absolutism, this will shift 
 "Centralize state" now reduce state governing cost by 10% rather 20% The tooltip in game is bugged, don't pay attention to it.
 Each point of negative stability reduce governing capacity by 10% and increase coring cost by 10%.
 You can ally people when that have over -199 opinion from you.
+Added a triggered modifier to reduce governing capacity by 20% in the age of absolutism and revolution
 
 ## Tech
 ADM Tech 8 gives 20 GC instead of 100
