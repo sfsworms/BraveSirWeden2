@@ -2022,6 +2022,8 @@
  company_interference:0 "Company Interference in Local Conflicts"
  desc_company_interference:0 "Our Trade Companies are involving themselves in wars between local rulers, hoping to exploit the conflicts for commercial gain."
  failed_monsoon:0 "Failed Rains"
+ ben_hates_player:0 "Just a number."
+ desc_ben_hates_player:0 "In his infinite wisdom, Ben decided you needed a governing capacity diet."
  desc_failed_monsoon:0 "The expected rainy season has failed to come to pass. This province is experiencing severe drought."
  company_drought:0 "Severe Famine"
  desc_company_drought:0 "Company policy has exacerbated a drought in this province, leading to widespread famine."
