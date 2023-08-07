@@ -1,6 +1,24 @@
 Current checksum: e829
 
+# Change for session 6
+
+## Score bonuses
+-Venice gets -2% dip tech cost, 2% global trade power and 2% dev cost
+-Crimea gets 5% MP recovery
+-Lotharingia gets -0.5% prestige decay
+
+## VC Bonuses
+-Fixed VC bonus for Crimea from 10% to 5%
+-Andalusia gets 5% morale from Beira
+-Teutons gets 5% morale from the Livonia VC (from Lithuania)
+-Lotharingia gets 10 % morale from the VC in Île-de-France (from France and Provence) and Savoy (from Provence and Switzerland)
+-Prussia gets 5% morale of armies from the VC in Silesia (from Bohemia)
+-Switzerland gets 5% morale of armies from the VC in Languedoc (from Provence)
+-Switzerland loses 2.5% morale from Lotharingia's Provence VC
+-Netherlands gets 5% morale of armies from the VC in Flanders (from Flanders) and 5% from the VC in Frisia (From Gelre and Oldenburg)
+
 # Change for session 5
+
 ## Score bonuses
 -Crimea gets an extra -0.5% prestige decay (overall score), 2% dev cost (ADM rating), 5% manpower recovery (MIL)
 -Netherlands gets an extra -2% dip tech cost and 2% global trade power (DIP rating)
@@ -74,11 +92,22 @@ ADM Tech 27 gives 50 GC instead of 250
 ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
-Crimea gets -2 diptech cost, 2% global trade power, 6% dev cost reduction, 15% manpower recovery, -2% prestige decay
-Lotharingia gets 5% manpower recovery and 2% dev cost
-Venice get -4% diptech cost and 4% global trade power
+Crimea gets -2 diptech cost, 2% global trade power, 6% dev cost reduction, 20% manpower recovery, -2% prestige decay
+Lotharingia gets 5% manpower recovery, 2% dev cost and 0,5% prestige decay reduction
+Venice get -6% diptech cost, 6% global trade power and 2% dev cost reduction
 Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
 -Crimea get 5% morale of armies from control of the Tver VC (Taken from Muscovy)
--Teutons get a VC and 5% morale of armies from control of Mazovia (from Poland)
+-Teutons get: 
+	-VC and 5% morale of armies from control of Mazovia (from Poland)
+	-VC and 5% morale from Livonia (from Lithuania)
+-Andalusia gets 5% morale from Beira (from Portugal)
+-Lotharingia gets: 
+	-5 % morale from the VC in Île-de-France (from France and Provence)
+	-5 % morale from the VC in Savoy (from Provence and Switzerland)
+-Prussia gets 5% morale of armies from the VC in Silesia (from Bohemia)
+-Switzerland gets:
+	-VC and 5% morale of armies from the VC in Languedoc (from Provence)
+	-loses 2.5% morale from Lotharingia's Provence VC
+-Netherlands gets 5% morale of armies from the VC in Flanders (from Flanders) and 5% from the VC in Frisia (From Gelre and Oldenburg)
