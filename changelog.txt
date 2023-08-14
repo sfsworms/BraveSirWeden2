@@ -1,4 +1,4 @@
-Current checksum: 48c0
+Current checksum: 6182
 
 # Change for session 6
 
