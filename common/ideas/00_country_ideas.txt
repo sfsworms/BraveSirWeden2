@@ -16773,15 +16773,13 @@ MSA_ideas = {
 
 SIA_ideas = {
     start = {
-        land_morale = 0.15
+        land_morale = 0.1
         global_manpower_modifier = 0.25
-		dip_tech_cost_modifier = -0.02
-		global_trade_power = 0.02
-		development_cost = -0.06
-		manpower_recovery_speed = 0.25
-		prestige_decay = -0.02
-		land_morale = 0.05
-		
+	dip_tech_cost_modifier = -0.02
+	global_trade_power = 0.02
+	development_cost = -0.06
+	manpower_recovery_speed = 0.25
+	prestige_decay = -0.02	
     }
     bonus = {
 		discipline = 0.05

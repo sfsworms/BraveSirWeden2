@@ -1,6 +1,9 @@
-Current checksum: b2bb
+Current checksum: c87d
 
 # Change for session 7
+
+## VC
+-Shanks lost his bonus in Tver.
 
 ## Tag Switch
 -Crimean bonuses were switched to Siamese ideas (Russia has Siamese ideas)
@@ -108,7 +111,6 @@ Venice get -8% diptech cost, 8% global trade power and 4% dev cost reduction
 Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
--Siam get 5% morale of armies from control of the Tver VC (Taken from Muscovy)
 -Teutons get: 
 	-VC and 5% morale of armies from control of Mazovia (from Poland)
 	-VC and 5% morale from Livonia (from Lithuania)
