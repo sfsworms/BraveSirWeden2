@@ -1,4 +1,16 @@
-Current checksum: c87d
+Current checksum: TBD
+
+# Change for session 8
+## VC
+No change
+
+## Tag Switch
+No change
+
+## Score bonuses
+-Russia (Siamese ideas) gets 5% MP recovery and 2% dev cost reduction
+-Venice gets  -2% dip tech cost, 2% global trade power
+-Lotharingia gets -0.5% prestige decay
 
 # Change for session 7
 
@@ -10,7 +22,7 @@ Current checksum: c87d
 
 ## Score bonuses
 -Venice gets -2% dip tech cost, 2% global trade power and 2% dev cost
--Crimea gets 5% MP recovery
+-Crimea/Russia gets 5% MP recovery
 -Lotharingia gets -0.5% prestige decay
 
 # Change for session 6
@@ -105,12 +117,14 @@ ADM Tech 27 gives 50 GC instead of 250
 ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
-Siam gets -2 diptech cost, 2% global trade power, 6% dev cost reduction, 25% manpower recovery, -2% prestige decay
-Lotharingia gets 5% manpower recovery, 2% dev cost and 1% prestige decay reduction
-Venice get -8% diptech cost, 8% global trade power and 4% dev cost reduction
+
+Siam/Russia gets -2 diptech cost, 2% global trade power, 8% dev cost reduction, 30% manpower recovery, -2% prestige decay
+Lotharingia gets 5% manpower recovery, 2% dev cost and 1.5% prestige decay reduction
+Venice get -10% diptech cost, 10% global trade power and 4% dev cost reduction
 Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
+
 -Teutons get: 
 	-VC and 5% morale of armies from control of Mazovia (from Poland)
 	-VC and 5% morale from Livonia (from Lithuania)
