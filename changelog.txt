@@ -1,4 +1,4 @@
-Current checksum: TBD
+Current checksum: b744
 
 # Change for session 8
 ## VC
