@@ -1,5 +1,17 @@
 Current checksum: TBD
 
+# Change for session 9
+## VC
+Hannover took a VC from the Netherlands (HAN + 5% land morale, NED - 5% land morale)
+
+## Tag Switch 
+No change
+
+## Score bonuses
+-Russia (Siamese ideas) gets 5% MP recovery and 2% dev cost reduction
+-Venice gets  -2% dip tech cost, 2% global trade power
+-Lotharingia gets -0.5% prestige decay
+
 # Change for session 8
 ## VC
 No change
@@ -118,9 +130,9 @@ ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
 
-Siam/Russia gets -2 diptech cost, 2% global trade power, 8% dev cost reduction, 30% manpower recovery, -2% prestige decay
-Lotharingia gets 5% manpower recovery, 2% dev cost and 1.5% prestige decay reduction
-Venice get -10% diptech cost, 10% global trade power and 4% dev cost reduction
+Siam/Russia gets -2 diptech cost, 2% global trade power, 10% dev cost reduction, 35% manpower recovery, -2% prestige decay
+Lotharingia gets 5% manpower recovery, 2% dev cost and 2% prestige decay reduction
+Venice get -12% diptech cost, 12% global trade power and 4% dev cost reduction
 Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
@@ -136,4 +148,5 @@ Netherlands gets -2% diptech cost and 2% global trade power
 -Switzerland gets:
 	-VC and 5% morale of armies from the VC in Languedoc (from Provence)
 	-loses 2.5% morale from Lotharingia's Provence VC
--Netherlands gets 5% morale of armies from the VC in Flanders (from Flanders) and 5% from the VC in Frisia (From Gelre and Oldenburg)
+-Netherlands gets 5% morale of armies from the VC in Flanders (from Flanders) and 5% from the VC in Frisia (From Gelre and Oldenburg) and loose 5% from the Hannover VC
+-Hannover gets 5 % morale of armies from the VC it took from Netherlands
