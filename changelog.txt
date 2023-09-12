@@ -1,5 +1,13 @@
 Current checksum: 7b91
 
+# Change for session 10
+## VC
+
+## Score bonuses
+-Russia (Siamese ideas) gets 5% MP recovery and 2% dev cost reduction
+-Venice gets  -2% dip tech cost, 2% global trade power
+-Lotharingia gets -0.5% prestige decay
+
 # Change for session 9
 ## VC
 Hannover took a VC from the Netherlands (HAN + 5% land morale, NED - 5% land morale)
@@ -130,9 +138,9 @@ ADM Tech 31 gives 100 GC instead of 500
 
 ## Bonuses
 
-Siam/Russia gets -2 diptech cost, 2% global trade power, 10% dev cost reduction, 35% manpower recovery, -2% prestige decay
-Lotharingia gets 5% manpower recovery, 2% dev cost and 2% prestige decay reduction
-Venice get -12% diptech cost, 12% global trade power and 4% dev cost reduction
+Siam/Russia gets -2 diptech cost, 2% global trade power, 12% dev cost reduction, 40% manpower recovery, -2% prestige decay
+Lotharingia gets 5% manpower recovery, 2% dev cost and 2.5% prestige decay reduction
+Venice get -14% diptech cost, 14% global trade power and 4% dev cost reduction
 Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
