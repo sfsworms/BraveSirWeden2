@@ -1505,7 +1505,7 @@ PRU_ideas = {
 	start = {
 		army_tradition = 0.5
 		ae_impact = -0.10
-		land_morale = 0.05
+		land_morale = 0.025
 	}
 	
 	bonus = {
@@ -1751,6 +1751,7 @@ PLC_ideas = {
 	start = {
 		nobles_loyalty_modifier = 0.1
 		num_accepted_cultures = 2 
+		land_morale = 0.05
 	}
 	
 	bonus = {
@@ -3763,6 +3764,7 @@ USA_ideas = {
 	start = {
 		merchants = 1
 		allowed_marine_fraction = 0.5
+		land_morale = 0.05
 	}
 	
 	bonus = {
@@ -11642,7 +11644,7 @@ HAN_ideas = {
 	start = {
 		global_foreign_trade_power = 0.1
 		build_cost = -0.1
-		land_morale = 0.05
+		land_morale = -0.025
 	}
 	bonus = {
 		discipline = 0.05
@@ -15897,7 +15899,7 @@ LOT_ideas = {
 		development_cost = -0.02
 		manpower_recovery_speed = 0.05
 		prestige_decay = -0.025
-		land_morale = 0.1
+		land_morale = 0.15
 	}
 	
 	bonus = {

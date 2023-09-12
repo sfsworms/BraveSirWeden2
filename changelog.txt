@@ -2,6 +2,10 @@ Current checksum: 7b91
 
 # Change for session 10
 ## VC
+- Lotharingia got a VC from Netherlands 
+- Netherlands recovered Hannover's VC on him
+- USA got a VC Vermont
+- Commonwealth got a VC from Prussia and Hannover
 
 ## Score bonuses
 -Russia (Siamese ideas) gets 5% MP recovery and 2% dev cost reduction
@@ -144,12 +148,14 @@ Venice get -14% diptech cost, 14% global trade power and 4% dev cost reduction
 Netherlands gets -2% diptech cost and 2% global trade power
 
 ## VC Bonuses 
-
+-USA gets:
+	-5 % morale of armies from a VC taken from Vermont.
 -Teutons get: 
 	-VC and 5% morale of armies from control of Mazovia (from Poland)
 	-VC and 5% morale from Livonia (from Lithuania)
 -Andalusia gets 5% morale from Beira (from Portugal)
 -Lotharingia gets: 
+	-5 % morale from the VC in Netherlands (from Netherlands)
 	-5 % morale from the VC in Île-de-France (from France and Provence)
 	-5 % morale from the VC in Savoy (from Provence and Switzerland)
 -Prussia gets 5% morale of armies from the VC in Silesia (from Bohemia)
@@ -157,4 +163,4 @@ Netherlands gets -2% diptech cost and 2% global trade power
 	-VC and 5% morale of armies from the VC in Languedoc (from Provence)
 	-loses 2.5% morale from Lotharingia's Provence VC
 -Netherlands gets 5% morale of armies from the VC in Flanders (from Flanders) and 5% from the VC in Frisia (From Gelre and Oldenburg) and loose 5% from the Hannover VC
--Hannover gets 5 % morale of armies from the VC it took from Netherlands
+
